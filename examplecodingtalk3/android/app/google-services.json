@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833278070011",
+    "project_id": "codingtalk-7a18d",
+    "storage_bucket": "codingtalk-7a18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833278070011:android:fb100db74e154c65a1345e",
+        "android_client_info": {
+          "package_name": "com.wahyu.codingtalk3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833278070011-vub77pbkteresin7cmvqki9uc756fqcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5uKqfOm7X9XMZN1m0uxHnzbM4ysakYA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833278070011-vub77pbkteresin7cmvqki9uc756fqcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
